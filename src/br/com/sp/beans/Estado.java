@@ -13,4 +13,6 @@ public class Estado {
 	public void setNome_estado(String nome_estado) {
 		this.nome_estado = nome_estado;
 	}
+	
+	
 }
