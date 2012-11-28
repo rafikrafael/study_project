@@ -6,7 +6,7 @@ public class Estado {
 	
 	private String sigla;
 	
-	private String teste;
+	private String teste_nova;
 
 	public String getNome_estado() {
 		return nome_estado;
